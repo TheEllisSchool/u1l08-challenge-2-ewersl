@@ -14,7 +14,7 @@ public class amazonchallenge {
 		}
 		
 		int numberMissing = 55 - sumofnums; 
-		JOptionPane.showMessageDialog (null, "The number missing " + numberMissing);
+		JOptionPane.showMessageDialog (null, "The number missing is 3 " + numberMissing);
 		
 
 
